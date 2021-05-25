@@ -2,7 +2,7 @@
   "name": "login-demo",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "王梓兆 <2661274710@qq.com>",
+  "author": "刘欢欢 <2432783449@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
